@@ -138,6 +138,7 @@ Navigate to web browser and type the public ip of each of the slaves.
 
 ![Screenshot (240)](https://github.com/user-attachments/assets/2c5bfb93-4486-417f-83bd-066ad6a94bfa)
 
-![Screenshot (240)](https://github.com/user-attachments/assets/01e216b7-0a13-498a-95b9-2e539113a5b1)
+![Screenshot (239)](https://github.com/user-attachments/assets/53a47636-2442-4a90-802a-831f841bc7d9)
+
 
 
